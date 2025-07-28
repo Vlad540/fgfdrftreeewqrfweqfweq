@@ -1,0 +1,50 @@
+package defpackage;
+
+/* renamed from: a7a  reason: default package */
+public abstract class a7a {
+    public static final int A = opb.messages_list_context_action_save_to_gallery;
+    public static final int B = opb.messages_list_context_action_select;
+    public static final int C = opb.messages_list_context_action_unpin;
+    public static final int D = opb.messages_list_context_actions_view_type;
+    public static final int E = opb.messages_list_context_content_container;
+    public static final int F = opb.messages_list_context_member_view_type;
+    public static final int G = opb.messages_list_context_members_member_cell;
+    public static final int H = opb.messages_list_context_members_member_reaction;
+    public static final int I = opb.messages_list_context_reactions_container;
+    public static final int J = opb.messages_list_item_alias;
+    public static final int K = opb.messages_list_item_date;
+    public static final int L = opb.messages_list_item_keyboard_buttons;
+    public static final int M = opb.messages_list_item_single_image;
+    public static final int N = opb.messages_list_item_text;
+    public static final int O = opb.messages_list_item_title;
+    public static final int P = opb.messages_list_item_video_duration;
+    public static final int Q = opb.messages_list_recycler_view;
+    public static final int R = opb.messages_list_scroll_btn;
+    public static final int S = opb.messages_list_share_contact_for_bot_action;
+    public static final int a = opb.chat_screen_message_send_error_delete_action;
+    public static final int b = opb.chat_screen_message_send_error_resend_action_multi;
+    public static final int c = opb.chat_screen_message_send_error_resend_action_solo;
+    public static final int d = opb.messages_list_chat_description_view_id;
+    public static final int e = opb.messages_list_chat_description_view_type;
+    public static final int f = opb.messages_list_confirm_cancel;
+    public static final int g = opb.messages_list_confirm_complaint_extremism;
+    public static final int h = opb.messages_list_confirm_complaint_fake;
+    public static final int i = opb.messages_list_confirm_complaint_other;
+    public static final int j = opb.messages_list_confirm_complaint_porno;
+    public static final int k = opb.messages_list_confirm_complaint_spam;
+    public static final int l = opb.messages_list_confirm_complaint_threat;
+    public static final int m = opb.messages_list_confirm_delete;
+    public static final int n = opb.messages_list_confirm_delete_for_all;
+    public static final int o = opb.messages_list_confirm_pin_with_notify;
+    public static final int p = opb.messages_list_confirm_pin_without_notify;
+    public static final int q = opb.messages_list_context_action_copy;
+    public static final int r = opb.messages_list_context_action_copy_photo;
+    public static final int s = opb.messages_list_context_action_delete;
+    public static final int t = opb.messages_list_context_action_delete_for_all;
+    public static final int u = opb.messages_list_context_action_edit;
+    public static final int v = opb.messages_list_context_action_forward;
+    public static final int w = opb.messages_list_context_action_mark_as_unread;
+    public static final int x = opb.messages_list_context_action_pin;
+    public static final int y = opb.messages_list_context_action_reply;
+    public static final int z = opb.messages_list_context_action_report;
+}

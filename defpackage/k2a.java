@@ -1,0 +1,53 @@
+package defpackage;
+
+/* renamed from: k2a  reason: default package */
+public abstract class k2a {
+    public static final int A = ktb.media_type_picker__close_dialog__decline;
+    public static final int B = ktb.media_type_picker__close_dialog__title;
+    public static final int C = ktb.media_type_picker__contact;
+    public static final int D = ktb.media_type_picker__file;
+    public static final int E = ktb.media_type_picker__file_dialog__decline;
+    public static final int F = ktb.media_type_picker__file_dialog__from_file_manager;
+    public static final int G = ktb.media_type_picker__file_dialog__from_gallery;
+    public static final int H = ktb.media_type_picker__file_dialog__title;
+    public static final int I = ktb.media_type_picker__gallery;
+    public static final int J = ktb.media_type_picker__input_hint;
+    public static final int K = ktb.media_type_picker__money;
+    public static final int L = ktb.media_type_picker__permissions_dialog__button;
+    public static final int M = ktb.media_type_picker__permissions_dialog__camera_permission;
+    public static final int N = ktb.media_type_picker__permissions_dialog__gallery_camera_subtitle;
+    public static final int O = ktb.media_type_picker__permissions_dialog__gallery_camera_title;
+    public static final int P = ktb.media_type_picker__permissions_dialog__gallery_subtitle;
+    public static final int Q = ktb.media_type_picker__permissions_dialog__gallery_title;
+    public static final int R = ktb.media_type_picker__permissions_dialog__subtitle;
+    public static final int S = ktb.media_type_picker__permissions_dialog__title;
+    public static final int T = ktb.media_type_picker__place;
+    public static final int U = ktb.media_type_picker__snack_file;
+    public static final int V = ktb.media_type_picker__snack_media;
+    public static final int a = ktb.chat_screen__cancel;
+    public static final int b = ktb.chat_screen__leave_chat_action;
+    public static final int c = ktb.chat_screen__leave_chat_title;
+    public static final int d = ktb.chat_screen__remove_chat_action;
+    public static final int e = ktb.chat_screen__remove_chat_title;
+    public static final int f = ktb.chat_screen__search_result_down_button_accessibility;
+    public static final int g = ktb.chat_screen__search_result_not_found;
+    public static final int h = ktb.chat_screen__search_result_success;
+    public static final int i = ktb.chat_screen__search_result_up_button_accessibility;
+    public static final int j = ktb.chat_screen__start_chat_with_bot;
+    public static final int k = ktb.chat_screen_channel_search_hint;
+    public static final int l = ktb.chat_screen_file_too_big_caption;
+    public static final int m = ktb.chat_screen_file_too_big_title;
+    public static final int n = ktb.chat_screen_join_channel;
+    public static final int o = ktb.chat_screen_join_chat;
+    public static final int p = ktb.chat_screen_leave_chat;
+    public static final int q = ktb.chat_screen_remove_chat;
+    public static final int r = ktb.chat_screen_search_hint;
+    public static final int s = ktb.chat_screen_status_mute_chat;
+    public static final int t = ktb.chat_screen_status_subscribe_chat;
+    public static final int u = ktb.chat_screen_status_unmute_chat;
+    public static final int v = ktb.chat_screen_unblock_contact;
+    public static final int w = ktb.media_bar_restricted_media_action;
+    public static final int x = ktb.media_bar_restricted_media_subtitle;
+    public static final int y = ktb.media_bar_restricted_media_title;
+    public static final int z = ktb.media_type_picker__close_dialog__accept;
+}

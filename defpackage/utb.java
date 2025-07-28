@@ -1,0 +1,55 @@
+package defpackage;
+
+/* renamed from: utb  reason: default package */
+public abstract class utb {
+    public static int oneme_login_confirm_description = 2131953679;
+    public static int oneme_login_confirm_info_loading_1 = 2131953680;
+    public static int oneme_login_confirm_info_loading_2 = 2131953681;
+    public static int oneme_login_confirm_info_loading_3 = 2131953682;
+    public static int oneme_login_confirm_resend = 2131953683;
+    public static int oneme_login_confirm_timer = 2131953684;
+    public static int oneme_login_confirm_title = 2131953685;
+    public static int oneme_login_error_connection_description = 2131953686;
+    public static int oneme_login_error_connection_title = 2131953687;
+    public static int oneme_login_input_continue = 2131953688;
+    public static int oneme_login_input_default_phone_hint = 2131953689;
+    public static int oneme_login_input_description = 2131953690;
+    public static int oneme_login_input_is_not_valid_phone_error = 2131953691;
+    public static int oneme_login_input_name_confirmation_cancel = 2131953692;
+    public static int oneme_login_input_name_confirmation_description = 2131953693;
+    public static int oneme_login_input_name_confirmation_return = 2131953694;
+    public static int oneme_login_input_name_confirmation_title = 2131953695;
+    public static int oneme_login_input_name_contact_permission_description = 2131953696;
+    public static int oneme_login_input_name_contact_permission_title = 2131953697;
+    public static int oneme_login_input_name_continue_button_active = 2131953698;
+    public static int oneme_login_input_name_continue_button_disabled = 2131953699;
+    public static int oneme_login_input_name_description = 2131953700;
+    public static int oneme_login_input_name_hint_name = 2131953701;
+    public static int oneme_login_input_name_hint_surname = 2131953702;
+    public static int oneme_login_input_name_hint_surname_short = 2131953703;
+    public static int oneme_login_input_name_surname_placeholder = 2131953704;
+    public static int oneme_login_input_name_title = 2131953705;
+    public static int oneme_login_input_need_help = 2131953706;
+    public static int oneme_login_input_need_help_email_title = 2131953707;
+    public static int oneme_login_input_title = 2131953708;
+    public static int oneme_login_neuro_avatars_bottomsheet_title = 2131953709;
+    public static int oneme_login_neuro_avatars_cancel_action = 2131953710;
+    public static int oneme_login_neuro_avatars_continue_button = 2131953711;
+    public static int oneme_login_neuro_avatars_description = 2131953712;
+    public static int oneme_login_neuro_avatars_load_from_gallery_action = 2131953713;
+    public static int oneme_login_neuro_avatars_profile_description = 2131953714;
+    public static int oneme_login_neuro_avatars_profile_title = 2131953715;
+    public static int oneme_login_neuro_avatars_remove_photo_action = 2131953716;
+    public static int oneme_login_neuro_avatars_save_button = 2131953717;
+    public static int oneme_login_neuro_avatars_take_photo_action = 2131953718;
+    public static int oneme_login_neuro_avatars_title = 2131953719;
+    public static int oneme_login_sms_count_exceeded_description = 2131953720;
+    public static int oneme_login_sms_count_exceeded_title = 2131953721;
+    public static int oneme_login_welcome_continue_btn = 2131953722;
+    public static int oneme_login_welcome_description = 2131953723;
+    public static int oneme_login_welcome_privacy_policy_clickable_part = 2131953724;
+    public static int oneme_login_welcome_switch_btn = 2131953725;
+    public static int oneme_login_welcome_terms = 2131953726;
+    public static int oneme_login_welcome_title = 2131953727;
+    public static int oneme_login_welcome_user_agreement_clickable_part = 2131953728;
+}

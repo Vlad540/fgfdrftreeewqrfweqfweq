@@ -1,0 +1,53 @@
+package defpackage;
+
+/* renamed from: jpb  reason: default package */
+public abstract class jpb {
+    public static int oneme_login_conductor = 2131363513;
+    public static int oneme_login_confirm_description = 2131363514;
+    public static int oneme_login_confirm_resend_code = 2131363515;
+    public static int oneme_login_confirm_sms_input = 2131363516;
+    public static int oneme_login_confirm_timer = 2131363517;
+    public static int oneme_login_confirm_title = 2131363518;
+    public static int oneme_login_input_constraint_layout = 2131363520;
+    public static int oneme_login_input_continue_button = 2131363521;
+    public static int oneme_login_input_description = 2131363522;
+    public static int oneme_login_input_gradient_bg = 2131363525;
+    public static int oneme_login_input_help_button = 2131363526;
+    public static int oneme_login_input_logo = 2131363527;
+    public static int oneme_login_input_name = 2131363528;
+    public static int oneme_login_input_name_btn_container = 2131363529;
+    public static int oneme_login_input_name_confirmation_cancel = 2131363530;
+    public static int oneme_login_input_name_confirmation_return = 2131363531;
+    public static int oneme_login_input_name_continue_btn = 2131363532;
+    public static int oneme_login_input_name_description = 2131363533;
+    public static int oneme_login_input_name_title = 2131363534;
+    public static int oneme_login_input_name_toolbar = 2131363535;
+    public static int oneme_login_input_phone_number_input = 2131363536;
+    public static int oneme_login_input_surname = 2131363537;
+    public static int oneme_login_input_title = 2131363538;
+    public static int oneme_login_input_toolbar = 2131363539;
+    public static int oneme_login_neuro_avatars_appbar = 2131363540;
+    public static int oneme_login_neuro_avatars_avatar = 2131363541;
+    public static int oneme_login_neuro_avatars_button_background = 2131363542;
+    public static int oneme_login_neuro_avatars_cancel_action = 2131363543;
+    public static int oneme_login_neuro_avatars_collapsible = 2131363544;
+    public static int oneme_login_neuro_avatars_continue_btn = 2131363545;
+    public static int oneme_login_neuro_avatars_description = 2131363546;
+    public static int oneme_login_neuro_avatars_load_from_gallery_action = 2131363547;
+    public static int oneme_login_neuro_avatars_recycler_view = 2131363548;
+    public static int oneme_login_neuro_avatars_remove_photo_action = 2131363549;
+    public static int oneme_login_neuro_avatars_root_container = 2131363550;
+    public static int oneme_login_neuro_avatars_tabs = 2131363551;
+    public static int oneme_login_neuro_avatars_tabs_shimmer = 2131363552;
+    public static int oneme_login_neuro_avatars_take_photo_action = 2131363553;
+    public static int oneme_login_neuro_avatars_title = 2131363554;
+    public static int oneme_login_neuro_avatars_toolbar = 2131363555;
+    public static int oneme_login_sms_code_exceeded_ok_btn = 2131363557;
+    public static int oneme_login_welcome_continue_btn = 2131363558;
+    public static int oneme_login_welcome_description = 2131363559;
+    public static int oneme_login_welcome_placeholder = 2131363560;
+    public static int oneme_login_welcome_switch_language_btn = 2131363561;
+    public static int oneme_login_welcome_terms = 2131363562;
+    public static int oneme_login_welcome_title = 2131363563;
+    public static int oneme_login_welcome_toolbar = 2131363564;
+}

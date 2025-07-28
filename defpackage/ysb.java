@@ -1,0 +1,50 @@
+package defpackage;
+
+/* renamed from: ysb  reason: default package */
+public abstract class ysb {
+    public static int account_auth_service_name = 2131951647;
+    public static int account_auth_type = 2131951648;
+    public static int app_gost_host_1 = 2131951714;
+    public static int app_gost_host_2 = 2131951715;
+    public static int app_gost_host_3 = 2131951716;
+    public static int app_gost_host_4 = 2131951717;
+    public static int app_host = 2131951718;
+    public static int app_host_1 = 2131951719;
+    public static int app_host_2 = 2131951720;
+    public static int app_host_3 = 2131951721;
+    public static int app_host_prod = 2131951722;
+    public static int app_host_prod_port = 2131951723;
+    public static int app_package_name = 2131951726;
+    public static int app_scheme = 2131951727;
+    public static int folder_path = 2131952911;
+    public static int gcm_defaultSenderId = 2131952982;
+    public static int google_api_key = 2131952995;
+    public static int google_app_id = 2131952996;
+    public static int google_crash_reporting_api_key = 2131952997;
+    public static int google_storage_bucket = 2131952998;
+    public static int join_chat_cancel_button = 2131953027;
+    public static int join_chat_confirm_channel_button = 2131953028;
+    public static int join_chat_confirm_chat_button = 2131953029;
+    public static int join_chat_title_channel = 2131953031;
+    public static int join_chat_title_chat = 2131953032;
+    public static int link_call_join_path = 2131953034;
+    public static int link_chat_join_path = 2131953035;
+    public static int link_chat_path = 2131953036;
+    public static int link_host_api = 2131953044;
+    public static int link_private_channel_path = 2131953050;
+    public static int link_private_contact_path = 2131953051;
+    public static int link_startwebapp_path = 2131953054;
+    public static int link_stickerset_path = 2131953055;
+    public static int oneme_app_name = 2131953533;
+    public static int oneme_contact_saved_snackbar_title = 2131953614;
+    public static int project_id = 2131954584;
+    public static int snackbar_contact_removed = 2131954737;
+    public static int snackbar_folder_link_error_caption = 2131954738;
+    public static int snackbar_folder_link_error_title = 2131954739;
+    public static int snackbar_link_info_error = 2131954740;
+    public static int snackbar_self_contact_open = 2131954741;
+    public static int tracer_app_token = 2131954792;
+    public static int tracer_environment = 2131954793;
+    public static int tracer_mapping_uuid = 2131954794;
+    public static int web_scheme = 2131955100;
+}

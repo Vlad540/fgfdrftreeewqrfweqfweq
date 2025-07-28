@@ -1,0 +1,84 @@
+package defpackage;
+
+import java.util.Collections;
+import kotlin.coroutines.Continuation;
+import one.me.chats.search.ChatsListSearchScreen;
+import one.me.sdk.bottomsheet.BottomSheetWidget;
+import one.me.sdk.bottomsheet.ConfirmationBottomSheet;
+
+/* renamed from: ds2  reason: default package */
+public final class ds2 extends l5e implements i26 {
+    public /* synthetic */ Object X;
+    public final /* synthetic */ ChatsListSearchScreen Y;
+
+    /* JADX INFO: super call moved to the top of the method (can break code semantics) */
+    public ds2(Continuation continuation, ChatsListSearchScreen chatsListSearchScreen) {
+        super(2, continuation);
+        this.Y = chatsListSearchScreen;
+    }
+
+    public final Object invoke(Object obj, Object obj2) {
+        return ((ds2) n((oq2) obj, (Continuation) obj2)).o(jue.a);
+    }
+
+    public final Continuation n(Object obj, Continuation continuation) {
+        ds2 ds2 = new ds2(continuation, this.Y);
+        ds2.X = obj;
+        return ds2;
+    }
+
+    public final Object o(Object obj) {
+        wx3.H(obj);
+        oq2 oq2 = (oq2) this.X;
+        boolean z = oq2 instanceof kpc;
+        jue jue = jue.a;
+        ygc ygc = this.Y;
+        if (z) {
+            k77[] k77Arr = ChatsListSearchScreen.N0;
+            ygc.p0();
+            ((kpc) oq2).getClass();
+            tt6 tt6 = (tt6) tp2.a.getAccessor().e();
+            if (tt6 != null) {
+                tt6.f(Collections.singleton(new st6(qt6.MADE_2_PIN, 1)), mnc.C0);
+            }
+        } else if (oq2 instanceof med) {
+            CharSequence a = ((med) oq2).a.a(ygc.getContext());
+            if (a == null) {
+                return jue;
+            }
+            gba gba = ygc.M0;
+            if (gba != null) {
+                gba.a();
+            }
+            hba hba = new hba(ygc);
+            hba.i(a);
+            ygc.M0 = hba.j();
+        } else if (oq2 instanceof eed) {
+            eed eed = (eed) oq2;
+            k77[] k77Arr2 = ChatsListSearchScreen.N0;
+            ygc.getClass();
+            k77[] k77Arr3 = BottomSheetWidget.B0;
+            jc3 a2 = a24.a(eed.b, jjd.j(new wia("selected.chatId.Action", Long.valueOf(eed.a))), 4);
+            a2.f(eed.c);
+            eed.d.forEach(new fh2(new hh2(1, a2, jc3.class, "addButton", "addButton([Lone/me/sdk/bottomsheet/ConfirmationBottomSheet$Button;)Lone/me/sdk/bottomsheet/ConfirmationBottomSheet$Builder;", 8, 2), 1));
+            ConfirmationBottomSheet e = a2.e();
+            e.setTargetController(ygc);
+            ygc ygc2 = ygc;
+            while (ygc2.getParentController() != null) {
+                ygc2 = ygc2.getParentController();
+            }
+            sgc sgc = null;
+            ygc ygc3 = ygc2 instanceof ygc ? ygc2 : null;
+            if (ygc3 != null) {
+                sgc = ygc3.S();
+            }
+            e.y0(ygc);
+            if (sgc != null) {
+                vgc vgc = new vgc(e, (String) null, (wr3) null, (wr3) null, false, -1);
+                rf0.k(false, vgc, true, "BottomSheetWidget");
+                sgc.G(vgc);
+            }
+        }
+        return jue;
+    }
+}
